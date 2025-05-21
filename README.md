@@ -53,27 +53,8 @@ A passionate and driven high school student (11th grade) from Central Asia with 
 
 ---
 
-### 🏆 GitHub Stats
-
-<a href="https://github.com/alauddinsema">
-  <img src="https://github-readme-stats.vercel.app/api?username=alauddinsema&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Alauddin's GitHub Stats" />
-</a>
-
-<a href="https://github.com/alauddinsema">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alauddinsema&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
----
-
 ### 📫 Contact
 
 ✉️ [alauddin.jamshitbekov@gmail.com](mailto:alauddin.jamshitbekov@gmail.com)
 
 ---
-
-Let me know if you want to add:
-- A pinned project section
-- Contribution graph
-- Languages used chart
-- Personal quote or motto at the bottom  
-✅ Would you like that added next?
