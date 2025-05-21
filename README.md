@@ -1,6 +1,8 @@
 ## 👋 Hi there! I’m Alauddin Zhamshitbekov 
  
- ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
+ ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alauddinsema&label=Profile%20views&color=0e75b6&style=flat-square" alt="alauddinsema profile views"/> </p> 
  
  A passionate and driven high school student (11th grade) from Central Asia with a deep interest in technology, AI, education, and web development. 🚀 
  
@@ -28,9 +30,26 @@
    <a href="https://supabase.io/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" alt="Supabase" /></a> 
    <a href="https://www.adobe.com/products/aftereffects.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" alt="After Effects" /></a> 
    <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" alt="Google Cloud" /></a> 
- </p> 
+ </p>
  
- --- 
+ ---
+ 
+ ### 📊 GitHub Stats
+ 
+ <p align="center">
+   <a href="https://github.com/alauddinsema">
+     <img src="https://github-readme-stats.vercel.app/api?username=alauddinsema&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="Alauddin's GitHub Stats" height="192px"/>
+   </a>
+   <a href="https://github.com/alauddinsema">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alauddinsema&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Alauddin's Top Languages" height="192px"/>
+   </a>
+   <br/>
+   <a href="https://github.com/alauddinsema">
+     <img src="https://streak-stats.demolab.com/?user=alauddinsema&theme=tokyonight&hide_border=true" alt="Alauddin's GitHub Streak" />
+   </a>
+ </p>
+ 
+ ---
  
  ### 🌐 Socials 
  
